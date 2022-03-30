@@ -1,8 +1,8 @@
-import Counter from "./Compo/Counter";
+import Calculator from "./Compo/Calculator";
 
 function App() {
   return (<>
-    <Counter />
+    <Calculator />
  </ > );
 }
 

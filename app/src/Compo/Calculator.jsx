@@ -1,6 +1,6 @@
 import React,{useState,useEffect} from "react";
-import "./Counter.css"
-const Counter=()=>{
+import "./Calculator.css"
+const Calculator=()=>{
 
 	let [value,setValue]=useState("")
 	let [equels,setEquel]=useState("0")
@@ -47,4 +47,4 @@ const Counter=()=>{
 	</div>
 	</div>)
 }
-export default Counter;
+export default Calculator;
